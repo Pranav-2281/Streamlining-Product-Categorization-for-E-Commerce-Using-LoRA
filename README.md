@@ -2,7 +2,7 @@
 
 This project explores the use of **Low-Rank Adaptation (LoRA)** to fine-tune **Large Language Models (LLMs)** such as GPT-2, BERT, and DistilRoBERTa for scalable and efficient product categorization in e-commerce platforms. By reducing the number of trainable parameters, LoRA significantly improves training efficiency without sacrificing accuracy.
 
-![]()
+![](/images/product_categorization.png)
 ## 🧠 Project Overview
 
 Manual product categorization in e-commerce is labor-intensive and inconsistent. This project automates the process using fine-tuned transformer-based models enhanced by LoRA, enabling high performance with minimal computational cost. We experimented with multiple LLMs and demonstrated substantial gains in AUC and efficiency using LoRA.
